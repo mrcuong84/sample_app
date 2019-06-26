@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_06_25_025627) do
+ActiveRecord::Schema.define(version: 2019_06_26_063657) do
 
 # Could not dump table "users" because of following StandardError
 #   Unknown type 'da' for column 'activated_at'
